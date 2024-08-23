@@ -22,7 +22,9 @@
 
 11. **Write a program to generate the Fibonacci series till 10.**
 
-12. **Using XPath, locate the path for only the element having the maximum value (write XPath that will find only the maximum value element, which is 15 in this example).**
+12. **How will do you connect to office computer from home and how to  check that your office computer is working or not?** 
+
+13. **Using XPath, locate the path for only the element having the maximum value (write XPath that will find only the maximum value element, which is 15 in this example).**
 
 **[Elixir Forum - Your Ideas for Elixir Book Authors and Content Creators](https://elixirforum.com/t/your-ideas-for-elixir-book-authors-and-content-creators/4275)**
 ![Q 12](https://github.com/ronikrawat/data/blob/main/image.png?raw=true)
