@@ -27,6 +27,7 @@
 ### Additional Topics
 15. **Do you know how to perform performance testing?**
 16. **Do you know how to use Jenkins or any other CI/CD tools?**
+17. **Do you have experience in database testing?**
 
 ---
 
