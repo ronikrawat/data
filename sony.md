@@ -28,3 +28,20 @@
 
 **[Elixir Forum - Your Ideas for Elixir Book Authors and Content Creators](https://elixirforum.com/t/your-ideas-for-elixir-book-authors-and-content-creators/4275)**
 ![Q 12](https://github.com/ronikrawat/data/blob/main/image.png?raw=true)
+
+
+## Round 2
+
+# Interview Questions
+
+1. **Introduce yourself.**
+2. **Tell about your working experience.**
+3. **Where was your last company?**
+4. **What have you done in your project?**
+5. **What was your daily routine?**
+6. **What are the tools you have worked on?**
+7. **What do you know about the current changes in the automation testing industry?**
+8. **What are the new tools available in the market for testing web apps?**
+9. **Do you know Appium?**
+10. **Will you be able to work on Appium?**
+11. **What did you do during your year gaps?**
